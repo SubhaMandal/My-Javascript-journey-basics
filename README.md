@@ -1,2 +1,2 @@
 # My-Javascript-journey-basics
-all my javascript codes that i have learn on my early days.
+all my JavaScript codes that I have learn in my early days.
